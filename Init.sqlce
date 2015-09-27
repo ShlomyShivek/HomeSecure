@@ -1,0 +1,10 @@
+﻿delete from NotificationEntityParamsSet;
+delete from NotificationEntityDataSet;
+insert into NotificationEntityDataSet values('Email Notification','HomeSecure.Logic.Notifications.EmailNotification, HomeSecure.Logic','Notify My Gmail');
+insert into NotificationEntityParamsSet values('Host','smtp.gmail.com',1,'Notify My Gmail');
+insert into NotificationEntityParamsSet values('Port',25,2,'Notify My Gmail');
+insert into NotificationEntityParamsSet values('UserName','kookygateway',3,'Notify My Gmail');
+insert into NotificationEntityParamsSet values('Password','k00kygatewa1',4,'Notify My Gmail');
+insert into NotificationEntityParamsSet values('From','kookygateway@gmail.com',5,'Notify My Gmail');
+insert into NotificationEntityParamsSet values('To','shlomyshivek@gmail.com',6,'Notify My Gmail');
+insert into NotificationEntityParamsSet values('Subject','Security Alert',7,'Notify My Gmail');

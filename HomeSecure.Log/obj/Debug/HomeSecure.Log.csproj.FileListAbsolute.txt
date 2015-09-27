@@ -1,0 +1,6 @@
+D:\DEV\HomeSecure\HomeSecure.Log\bin\Debug\HomeSecure.Log.dll
+D:\DEV\HomeSecure\HomeSecure.Log\bin\Debug\HomeSecure.Log.pdb
+D:\DEV\HomeSecure\HomeSecure.Log\bin\Debug\log4net.dll
+D:\DEV\HomeSecure\HomeSecure.Log\bin\Debug\log4net.xml
+D:\DEV\HomeSecure\HomeSecure.Log\obj\Debug\HomeSecure.Log.dll
+D:\DEV\HomeSecure\HomeSecure.Log\obj\Debug\HomeSecure.Log.pdb

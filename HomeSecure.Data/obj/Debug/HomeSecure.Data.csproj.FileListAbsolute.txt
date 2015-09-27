@@ -1,0 +1,12 @@
+D:\DEV\HomeSecure\HomeSecure.Data\bin\Debug\ConfigFiles\Behaviors.config
+D:\DEV\HomeSecure\HomeSecure.Data\bin\Debug\ConfigFiles\Bindings.config
+D:\DEV\HomeSecure\HomeSecure.Data\bin\Debug\ConfigFiles\KnownTypes.config
+D:\DEV\HomeSecure\HomeSecure.Data\bin\Debug\HomeSecure.Data.dll
+D:\DEV\HomeSecure\HomeSecure.Data\bin\Debug\HomeSecure.Data.pdb
+D:\DEV\HomeSecure\HomeSecure.Data\bin\Debug\HomeSecure.Log.dll
+D:\DEV\HomeSecure\HomeSecure.Data\bin\Debug\log4net.dll
+D:\DEV\HomeSecure\HomeSecure.Data\bin\Debug\HomeSecure.Log.pdb
+D:\DEV\HomeSecure\HomeSecure.Data\bin\Debug\log4net.xml
+D:\DEV\HomeSecure\HomeSecure.Data\obj\Debug\HomeSecure.Data.csprojResolveAssemblyReference.cache
+D:\DEV\HomeSecure\HomeSecure.Data\obj\Debug\HomeSecure.Data.dll
+D:\DEV\HomeSecure\HomeSecure.Data\obj\Debug\HomeSecure.Data.pdb

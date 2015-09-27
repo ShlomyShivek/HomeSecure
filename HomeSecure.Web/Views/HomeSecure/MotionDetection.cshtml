@@ -1,0 +1,22 @@
+﻿@model HomeSecure.Data.Entities.MotionDetectionEvent
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>MotionDetection</title>
+</head>
+<body>
+    <div>
+        Event ID : @Html.DisplayFor(a=>Model.ID)
+        <ul> 
+   @for (int i=0; i < ViewBag.NumTimes; i++) { 
+      <li>@ViewBag.Test</li> 
+   } 
+</ul>
+    </div>
+</body>
+</html>

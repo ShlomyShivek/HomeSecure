@@ -1,0 +1,15 @@
+﻿<Window x:Class="HomeSecure.Client.EventLog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="EventLog" Height="426" Width="401">
+
+    <Grid Height="386" Width="383">
+        <DataGrid AutoGenerateColumns="False" Height="346" HorizontalAlignment="Left" Margin="12,12,0,0" Name="dgSecurityEvents" VerticalAlignment="Top" Width="349">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Path=SecurityEventTime}" IsReadOnly="True" Header="Event Time"></DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding Path=Camera.Name}" IsReadOnly="True" Header="Camera Name"></DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding Path=NumberOfPixelsDetected}" IsReadOnly="True" Header="Pixels Detected"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
